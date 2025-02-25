@@ -1,0 +1,81 @@
+﻿[2025-02-13 16.50.54] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 16.51.22] [INFO] Initializing SharePoint connection
+[2025-02-13 16.51.33] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Automation Calculated Excel/SDC Agro Pvt ltd.XLSM
+[2025-02-13 16.52.55] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 16.53.08] [INFO] Initializing SharePoint connection
+[2025-02-13 16.53.10] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Automation Calculated Excel/SDC Agro Pvt ltd.XLSM
+[2025-02-13 16.56.55] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 16.56.55] [INFO] Initializing SharePoint connection
+[2025-02-13 16.57.12] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Automation Calculated Excel/SDC Agro Pvt ltd.XLSM
+[2025-02-13 18.08.33] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 18.08.46] [INFO] Initializing SharePoint connection
+[2025-02-13 18.09.47] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 18.09.47] [INFO] Initializing SharePoint connection
+[2025-02-13 18.09.51] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Automation Calculated Excel/SDC Agro Pvt ltd.XLSM
+[2025-02-13 18.10.52] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 18.10.52] [INFO] Initializing SharePoint connection
+[2025-02-13 18.10.55] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-13 18.10.58] [INFO] Writing SharePoint file to local storage
+[2025-02-13 18.10.58] [INFO] Opening Excel application
+[2025-02-13 18.11.02] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-13 18.11.05] [INFO] Setting company name: SDC Agro Pvt ltd
+[2025-02-13 18.11.06] [INFO] Running macro based on cell value
+[2025-02-13 18.11.07] [INFO] Executing CFPL macro
+[2025-02-13 18.11.07] [INFO] Excel processing completed successfully
+[2025-02-13 18.11.07] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-13 18.11.08] [INFO] File uploaded successfully to SharePoint: SDC Agro Pvt ltd13-02-2025 6.11.07 PM.XLSM
+[2025-02-13 18.11.08] [INFO] Processing completed successfully for company: SDC Agro Pvt ltd
+[2025-02-13 18.12.07] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 18.12.08] [INFO] Initializing SharePoint connection
+[2025-02-13 18.12.11] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Automation Calculated Excel/SDC Agro Pvt ltd.XLSM
+[2025-02-13 18.17.00] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 18.17.00] [INFO] Initializing SharePoint connection
+[2025-02-13 18.17.01] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-13 18.17.03] [INFO] Writing SharePoint file to local storage
+[2025-02-13 18.17.03] [INFO] Opening Excel application
+[2025-02-13 18.17.05] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-13 18.17.18] [INFO] Setting company name: SDC Agro Pvt ltd
+[2025-02-13 18.17.24] [INFO] Running macro based on cell value
+[2025-02-13 18.17.25] [INFO] Executing CFPL macro
+[2025-02-13 18.17.25] [INFO] Excel processing completed successfully
+[2025-02-13 18.17.25] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-13 18.17.26] [INFO] File uploaded successfully to SharePoint: SDC Agro Pvt ltd.XLSM
+[2025-02-13 18.17.26] [INFO] Processing completed successfully for company: SDC Agro Pvt ltd
+[2025-02-13 18.18.37] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 18.18.37] [INFO] Initializing SharePoint connection
+[2025-02-13 18.18.42] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Automation Calculated Excel/SDC Agro Pvt ltd.XLSM
+[2025-02-13 18.18.50] [INFO] Writing SharePoint file to local storage
+[2025-02-13 18.18.53] [INFO] Opening Excel application
+[2025-02-13 18.18.54] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-13 18.19.19] [INFO] Setting company name: SDC Agro Pvt ltd
+[2025-02-13 18.19.21] [INFO] Running macro based on cell value
+[2025-02-13 18.19.21] [INFO] Executing CFPL macro
+[2025-02-13 18.19.22] [INFO] Excel processing completed successfully
+[2025-02-13 18.19.22] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-13 18.24.18] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 18.24.18] [INFO] Initializing SharePoint connection
+[2025-02-13 18.24.24] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Automation Calculated Excel/SDC Agro Pvt ltd.XLSM
+[2025-02-13 18.24.29] [INFO] Deleting existing file at: C:\Users\ASUS\Desktop\PriceMacro\PriceMacro\MacroFiles\SDC Agro Pvt ltd.XLSM
+[2025-02-13 18.24.32] [INFO] Writing SharePoint file to local storage
+[2025-02-13 18.24.37] [INFO] Opening Excel application
+[2025-02-13 18.24.39] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-13 18.24.40] [INFO] Setting company name: SDC Agro Pvt ltd
+[2025-02-13 18.24.42] [INFO] Running macro based on cell value
+[2025-02-13 18.24.42] [INFO] Executing CFPL macro
+[2025-02-13 18.24.43] [INFO] Excel processing completed successfully
+[2025-02-13 18.24.43] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-13 18.24.44] [INFO] File uploaded successfully to SharePoint: SDC Agro Pvt ltd.XLSM
+[2025-02-13 18.24.44] [INFO] Processing completed successfully for company: SDC Agro Pvt ltd
+[2025-02-13 18.35.53] [INFO] Processing started for company: SDC Agro Pvt ltd
+[2025-02-13 18.35.53] [INFO] Initializing SharePoint connection
+[2025-02-13 18.36.09] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Automation Calculated Excel/SDC AGRO PVT LTD.XLSM
+[2025-02-13 18.36.17] [INFO] Writing SharePoint file to local storage
+[2025-02-13 18.36.22] [INFO] Opening Excel application
+[2025-02-13 18.36.24] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-13 18.36.25] [INFO] Setting company name: SDC Agro Pvt ltd
+[2025-02-13 18.36.27] [INFO] Running macro based on cell value
+[2025-02-13 18.36.27] [INFO] Executing CFPL macro
+[2025-02-13 18.36.28] [INFO] Excel processing completed successfully
+[2025-02-13 18.36.28] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-13 18.36.28] [INFO] File uploaded successfully to SharePoint: SDC AGRO PVT LTD.XLSM
+[2025-02-13 18.36.28] [INFO] Processing completed successfully for company: SDC Agro Pvt ltd

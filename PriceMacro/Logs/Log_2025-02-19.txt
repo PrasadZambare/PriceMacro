@@ -1,0 +1,13 @@
+﻿[2025-02-19 13:54:01] [INFO] Processing started for company: esyhdfg Agro Pvt ltd
+[2025-02-19 13:54:01] [INFO] Initializing SharePoint connection
+[2025-02-19 13:54:02] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-19 13:54:06] [INFO] Writing SharePoint file to local storage
+[2025-02-19 13:54:06] [INFO] Opening Excel application
+[2025-02-19 13:54:14] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-19 13:54:21] [INFO] Setting company name: esyhdfg Agro Pvt ltd
+[2025-02-19 13:54:28] [INFO] Running macro based on cell value
+[2025-02-19 13:54:32] [INFO] Executing CFPL macro
+[2025-02-19 13:54:35] [INFO] Excel processing completed successfully
+[2025-02-19 13:54:35] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-19 13:54:38] [INFO] File uploaded successfully to SharePoint: ESYHDFG AGRO PVT LTD19-02-2025.XLSM
+[2025-02-19 13:54:38] [INFO] Processing completed successfully for company: esyhdfg Agro Pvt ltd

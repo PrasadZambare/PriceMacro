@@ -1,0 +1,348 @@
+﻿[2025-02-24 11:18:00] [INFO] Processing started for company: Amm Agro Pvt ltd
+[2025-02-24 11:18:00] [INFO] Initializing SharePoint connection
+[2025-02-24 11:18:02] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 11:18:06] [INFO] Writing SharePoint file to local storage
+[2025-02-24 11:18:06] [INFO] Opening Excel application
+[2025-02-24 11:18:11] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 11:18:11] [INFO] Setting company name: Amm Agro Pvt ltd
+[2025-02-24 11:18:17] [INFO] Running macro based on cell value
+[2025-02-24 11:18:17] [INFO] Executing CFPL macro
+[2025-02-24 11:18:22] [INFO] Excel processing completed successfully
+[2025-02-24 11:18:22] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 11:18:24] [INFO] File uploaded successfully to SharePoint: AMM AGRO PVT LTD24-02-2025 11_8_2.XLSM
+[2025-02-24 11:18:29] [INFO] Processing completed successfully for company: Amm Agro Pvt ltd
+[2025-02-24 12:16:34] [INFO] Processing started for company: Amm Agro Pvt ltd
+[2025-02-24 12:16:34] [INFO] Initializing SharePoint connection
+[2025-02-24 12:16:40] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 12:16:43] [INFO] Writing SharePoint file to local storage
+[2025-02-24 12:16:43] [INFO] Opening Excel application
+[2025-02-24 12:16:47] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 12:16:47] [INFO] Setting company name: Amm Agro Pvt ltd
+[2025-02-24 12:16:54] [INFO] Running macro based on cell value
+[2025-02-24 12:16:54] [INFO] Executing CFPL macro
+[2025-02-24 12:17:00] [INFO] Excel processing completed successfully
+[2025-02-24 12:17:00] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 12:17:01] [INFO] File uploaded successfully to SharePoint: AMM AGRO PVT LTD24-02-2025 12_7_0.XLSM
+[2025-02-24 12:17:05] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 12:19:13] [INFO] Processing started for company: Amm Agro Pvt ltd
+[2025-02-24 12:19:13] [INFO] Initializing SharePoint connection
+[2025-02-24 12:19:14] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 12:19:17] [INFO] Writing SharePoint file to local storage
+[2025-02-24 12:19:17] [INFO] Opening Excel application
+[2025-02-24 12:19:24] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 12:19:24] [INFO] Setting company name: Amm Agro Pvt ltd
+[2025-02-24 12:19:30] [INFO] Running macro based on cell value
+[2025-02-24 12:19:30] [INFO] Executing CFPL macro
+[2025-02-24 12:19:36] [INFO] Excel processing completed successfully
+[2025-02-24 12:19:36] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 12:19:37] [INFO] File uploaded successfully to SharePoint: AMM AGRO PVT LTD24-02-2025 12_9_6.XLSM
+[2025-02-24 12:19:40] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 12:32:12] [INFO] Processing started for company: Amm Agro Pvt ltd
+[2025-02-24 12:32:12] [INFO] Initializing SharePoint connection
+[2025-02-24 12:32:15] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 12:32:21] [INFO] Writing SharePoint file to local storage
+[2025-02-24 12:32:21] [INFO] Opening Excel application
+[2025-02-24 12:32:25] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 12:32:25] [INFO] Setting company name: Amm Agro Pvt ltd
+[2025-02-24 12:32:28] [INFO] Running macro based on cell value
+[2025-02-24 12:32:28] [INFO] Executing CFPL macro
+[2025-02-24 12:32:31] [INFO] Excel processing completed successfully
+[2025-02-24 12:32:31] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 12:32:33] [INFO] File uploaded successfully to SharePoint: AMM AGRO PVT LTD24-02-2025 12_2_2.XLSM
+[2025-02-24 12:32:33] [INFO] Send Mail Successfully
+[2025-02-24 12:32:33] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 12:32:36] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 12:32:41] [INFO] File deleted successfully FromC:\CapSave\PriceMacro\PriceMacro\PriceMacro\MacroFiles\AMM AGRO PVT LTD24-02-2025 12_2_2.XLSM
+[2025-02-24 12:32:41] [INFO] Processing completed successfully for company: Amm Agro Pvt ltd
+[2025-02-24 12:35:39] [INFO] Processing started for company: Amm Agro Pvt ltd
+[2025-02-24 12:35:39] [INFO] Initializing SharePoint connection
+[2025-02-24 12:35:39] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 12:35:43] [INFO] Writing SharePoint file to local storage
+[2025-02-24 12:35:43] [INFO] Opening Excel application
+[2025-02-24 12:35:47] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 12:35:47] [INFO] Setting company name: Amm Agro Pvt ltd
+[2025-02-24 12:36:12] [INFO] Running macro based on cell value
+[2025-02-24 12:36:12] [INFO] Executing CFPL macro
+[2025-02-24 12:36:17] [INFO] Excel processing completed successfully
+[2025-02-24 12:36:17] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 12:36:20] [INFO] File uploaded successfully to SharePoint: AMM AGRO PVT LTD24-02-2025 12_6_8.XLSM
+[2025-02-24 12:36:20] [INFO] Send Mail Successfully
+[2025-02-24 12:36:20] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 12:36:24] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 12:36:25] [INFO] File deleted successfully FromC:\CapSave\PriceMacro\PriceMacro\PriceMacro\MacroFiles\AMM AGRO PVT LTD24-02-2025 12_5_9.XLSM
+[2025-02-24 12:36:25] [INFO] Processing completed successfully for company: Amm Agro Pvt ltd
+[2025-02-24 12:39:21] [INFO] Processing started for company: Amm Agro Pvt ltd
+[2025-02-24 12:39:21] [INFO] Initializing SharePoint connection
+[2025-02-24 12:39:21] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 12:39:26] [INFO] Writing SharePoint file to local storage
+[2025-02-24 12:39:26] [INFO] Opening Excel application
+[2025-02-24 12:39:30] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 12:39:30] [INFO] Setting company name: Amm Agro Pvt ltd
+[2025-02-24 12:39:32] [INFO] Running macro based on cell value
+[2025-02-24 12:39:32] [INFO] Executing CFPL macro
+[2025-02-24 12:39:35] [INFO] Excel processing completed successfully
+[2025-02-24 12:39:35] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 12:40:44] [INFO] Processing started for company: Amm Agro Pvt ltd
+[2025-02-24 12:40:44] [INFO] Initializing SharePoint connection
+[2025-02-24 12:40:44] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 12:40:48] [INFO] Writing SharePoint file to local storage
+[2025-02-24 12:40:48] [INFO] Opening Excel application
+[2025-02-24 12:40:52] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 12:40:52] [INFO] Setting company name: Amm Agro Pvt ltd
+[2025-02-24 12:40:56] [INFO] Running macro based on cell value
+[2025-02-24 12:40:56] [INFO] Executing CFPL macro
+[2025-02-24 12:41:00] [INFO] Excel processing completed successfully
+[2025-02-24 12:41:00] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 12:41:01] [INFO] File uploaded successfully to SharePoint: AMM AGRO PVT LTD24-02-2025 12_1_0.XLSM
+[2025-02-24 12:41:01] [INFO] Send Mail Successfully
+[2025-02-24 12:41:01] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 12:41:04] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 12:41:42] [INFO] File deleted successfully FromC:\CapSave\PriceMacro\PriceMacro\PriceMacro\MacroFiles\AMM AGRO PVT LTD24-02-2025 12_0_4.XLSM
+[2025-02-24 12:41:43] [INFO] Processing completed successfully for company: Amm Agro Pvt ltd
+[2025-02-24 12:59:35] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 12:59:35] [INFO] Initializing SharePoint connection
+[2025-02-24 12:59:35] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 12:59:40] [INFO] Writing SharePoint file to local storage
+[2025-02-24 12:59:40] [INFO] Opening Excel application
+[2025-02-24 12:59:44] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 12:59:44] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 13:01:02] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 13:01:02] [INFO] Initializing SharePoint connection
+[2025-02-24 13:01:02] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 13:01:06] [INFO] Writing SharePoint file to local storage
+[2025-02-24 13:01:06] [INFO] Opening Excel application
+[2025-02-24 13:01:09] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 13:01:09] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 13:01:11] [INFO] Running macro based on cell value
+[2025-02-24 13:01:12] [INFO] Executing CFPL macro
+[2025-02-24 13:01:15] [INFO] Excel processing completed successfully
+[2025-02-24 13:01:15] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 13:01:16] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 13_1_5.XLSM
+[2025-02-24 13:01:16] [INFO] Send Mail Successfully
+[2025-02-24 13:01:16] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 13:01:19] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 13:01:24] [INFO] File deleted successfully FromC:\CapSave\PriceMacro\PriceMacro\PriceMacro\MacroFiles\AMSS AGRO PVT LTD24-02-2025 13_1_2.XLSM
+[2025-02-24 13:01:24] [INFO] Processing completed successfully for company: Amss Agro Pvt ltd
+[2025-02-24 13:32:47] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 13:32:47] [INFO] Initializing SharePoint connection
+[2025-02-24 13:32:47] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 13:32:50] [INFO] Writing SharePoint file to local storage
+[2025-02-24 13:32:50] [INFO] Opening Excel application
+[2025-02-24 13:32:54] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 13:32:54] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 13:32:57] [INFO] Running macro based on cell value
+[2025-02-24 13:32:57] [INFO] Executing CFPL macro
+[2025-02-24 13:33:00] [INFO] Excel processing completed successfully
+[2025-02-24 13:33:00] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 13:33:01] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 13_3_1.XLSM
+[2025-02-24 13:33:01] [INFO] Send Mail Successfully
+[2025-02-24 13:33:01] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 13:33:04] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 13:33:05] [INFO] File deleted successfully FromC:\CapSave\PriceMacro\PriceMacro\PriceMacro\MacroFiles\AMSS AGRO PVT LTD24-02-2025 13_2_7.XLSM
+[2025-02-24 13:33:05] [INFO] Processing completed successfully for company: Amss Agro Pvt ltd
+[2025-02-24 13:50:45] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 13:50:45] [INFO] Initializing SharePoint connection
+[2025-02-24 13:50:45] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 13:50:50] [INFO] Writing SharePoint file to local storage
+[2025-02-24 13:50:50] [INFO] Opening Excel application
+[2025-02-24 13:50:55] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 13:50:55] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 13:51:00] [INFO] Running macro based on cell value
+[2025-02-24 13:51:00] [INFO] Executing CFPL macro
+[2025-02-24 13:51:03] [INFO] Excel processing completed successfully
+[2025-02-24 13:51:03] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 13:51:05] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 13_1_4.XLSM
+[2025-02-24 13:51:05] [INFO] Send Mail Successfully
+[2025-02-24 13:51:05] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 13:51:08] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 13:53:46] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 13:53:46] [INFO] Initializing SharePoint connection
+[2025-02-24 13:53:46] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 13:53:51] [INFO] Writing SharePoint file to local storage
+[2025-02-24 13:53:51] [INFO] Opening Excel application
+[2025-02-24 13:53:55] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 13:53:55] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 13:55:31] [INFO] Running macro based on cell value
+[2025-02-24 13:55:31] [INFO] Executing CFPL macro
+[2025-02-24 13:55:35] [INFO] Excel processing completed successfully
+[2025-02-24 13:55:35] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 13:55:37] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 13_5_6.XLSM
+[2025-02-24 13:55:37] [INFO] Send Mail Successfully
+[2025-02-24 13:55:37] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 13:55:41] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 13:57:03] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 13:57:03] [INFO] Initializing SharePoint connection
+[2025-02-24 13:57:03] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 13:57:07] [INFO] Writing SharePoint file to local storage
+[2025-02-24 13:57:07] [INFO] Opening Excel application
+[2025-02-24 13:57:12] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 13:57:12] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 14:00:12] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 14:00:12] [INFO] Initializing SharePoint connection
+[2025-02-24 14:00:12] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 14:00:15] [INFO] Writing SharePoint file to local storage
+[2025-02-24 14:00:15] [INFO] Opening Excel application
+[2025-02-24 14:00:19] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 14:00:19] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 14:01:05] [INFO] Running macro based on cell value
+[2025-02-24 14:01:06] [INFO] Executing CFPL macro
+[2025-02-24 14:01:11] [INFO] Excel processing completed successfully
+[2025-02-24 14:01:11] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 14:01:12] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 14_1_1.XLSM
+[2025-02-24 14:01:12] [INFO] Send Mail Successfully
+[2025-02-24 14:01:12] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 14:01:17] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 14:58:55] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 14:58:55] [INFO] Initializing SharePoint connection
+[2025-02-24 14:58:55] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 14:58:58] [INFO] Writing SharePoint file to local storage
+[2025-02-24 14:58:58] [INFO] Opening Excel application
+[2025-02-24 14:59:03] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 14:59:04] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 14:59:07] [INFO] Running macro based on cell value
+[2025-02-24 14:59:07] [INFO] Executing CFPL macro
+[2025-02-24 14:59:10] [INFO] Excel processing completed successfully
+[2025-02-24 14:59:10] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 14:59:11] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 14_9_0.XLSM
+[2025-02-24 14:59:11] [INFO] Send Mail Successfully
+[2025-02-24 14:59:11] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 14:59:15] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 14:59:15] [INFO] File deleted successfully FromC:\CapSave\PriceMacro\PriceMacro\PriceMacro\MacroFiles\AMSS AGRO PVT LTD24-02-2025 14_8_5.XLSM
+[2025-02-24 14:59:15] [INFO] Processing completed successfully for company: Amss Agro Pvt ltd
+[2025-02-24 15:04:27] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 15:04:27] [INFO] Initializing SharePoint connection
+[2025-02-24 15:04:27] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 15:04:30] [INFO] Writing SharePoint file to local storage
+[2025-02-24 15:04:30] [INFO] Opening Excel application
+[2025-02-24 15:04:36] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 15:04:36] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 15:04:39] [INFO] Running macro based on cell value
+[2025-02-24 15:04:39] [INFO] Executing CFPL macro
+[2025-02-24 15:04:43] [INFO] Excel processing completed successfully
+[2025-02-24 15:04:43] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 15:04:44] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 15_4_3.XLSM
+[2025-02-24 15:04:44] [INFO] Send Mail Successfully
+[2025-02-24 15:04:44] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 15:04:47] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 15:14:56] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 15:14:56] [INFO] Initializing SharePoint connection
+[2025-02-24 15:14:56] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 15:15:00] [INFO] Writing SharePoint file to local storage
+[2025-02-24 15:15:00] [INFO] Opening Excel application
+[2025-02-24 15:15:05] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 15:15:05] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 15:15:07] [INFO] Running macro based on cell value
+[2025-02-24 15:15:08] [INFO] Executing CFPL macro
+[2025-02-24 15:15:10] [INFO] Excel processing completed successfully
+[2025-02-24 15:15:10] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 15:15:12] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 15_5_0.XLSM
+[2025-02-24 15:15:12] [INFO] Send Mail Successfully
+[2025-02-24 15:15:12] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 15:15:15] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 15:33:14] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 15:33:14] [INFO] Initializing SharePoint connection
+[2025-02-24 15:33:14] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 15:33:17] [INFO] Writing SharePoint file to local storage
+[2025-02-24 15:33:17] [INFO] Opening Excel application
+[2025-02-24 15:33:22] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 15:33:23] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 15:33:26] [INFO] Running macro based on cell value
+[2025-02-24 15:33:26] [INFO] Executing CFPL macro
+[2025-02-24 15:33:30] [INFO] Excel processing completed successfully
+[2025-02-24 15:33:30] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 15:33:31] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 15_3_0.XLSM
+[2025-02-24 15:33:31] [INFO] Send Mail Successfully
+[2025-02-24 15:33:31] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 15:33:35] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 16:00:20] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 16:00:20] [INFO] Initializing SharePoint connection
+[2025-02-24 16:00:20] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 16:00:23] [INFO] Writing SharePoint file to local storage
+[2025-02-24 16:00:23] [INFO] Opening Excel application
+[2025-02-24 16:00:35] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 16:00:35] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 16:00:41] [INFO] Running macro based on cell value
+[2025-02-24 16:00:41] [INFO] Executing CFPL macro
+[2025-02-24 16:00:50] [INFO] Excel processing completed successfully
+[2025-02-24 16:00:50] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 16:00:52] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 16_0_1.XLSM
+[2025-02-24 16:00:52] [INFO] Send Mail Successfully
+[2025-02-24 16:00:52] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 16:00:57] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 16:07:58] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 16:07:58] [INFO] Initializing SharePoint connection
+[2025-02-24 16:07:58] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 16:08:04] [INFO] Writing SharePoint file to local storage
+[2025-02-24 16:08:09] [INFO] Opening Excel application
+[2025-02-24 16:08:24] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 16:08:24] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 16:08:31] [INFO] Running macro based on cell value
+[2025-02-24 16:08:32] [INFO] Executing CFPL macro
+[2025-02-24 16:08:36] [INFO] Excel processing completed successfully
+[2025-02-24 16:08:36] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 16:08:37] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 16_8_6.XLSM
+[2025-02-24 16:08:37] [INFO] Send Mail Successfully
+[2025-02-24 16:08:37] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 16:08:42] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 16:27:41] [INFO] Processing started for company: Amss Agro Pvt ltd
+[2025-02-24 16:27:41] [INFO] Initializing SharePoint connection
+[2025-02-24 16:27:41] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 16:27:45] [INFO] Writing SharePoint file to local storage
+[2025-02-24 16:27:45] [INFO] Opening Excel application
+[2025-02-24 16:27:51] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 16:27:52] [INFO] Setting company name: Amss Agro Pvt ltd
+[2025-02-24 16:47:10] [INFO] Running macro based on cell value
+[2025-02-24 16:47:10] [INFO] Executing CFPL macro
+[2025-02-24 16:47:26] [INFO] Excel processing completed successfully
+[2025-02-24 16:47:26] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 16:47:28] [INFO] File uploaded successfully to SharePoint: AMSS AGRO PVT LTD24-02-2025 16_7_7.XLSM
+[2025-02-24 16:47:28] [INFO] Send Mail Successfully
+[2025-02-24 16:47:28] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 16:47:33] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 16:52:56] [INFO] Processing started for company: Axy Agro Pvt ltd
+[2025-02-24 16:52:56] [INFO] Initializing SharePoint connection
+[2025-02-24 16:52:56] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 16:53:02] [INFO] Writing SharePoint file to local storage
+[2025-02-24 16:53:02] [INFO] Opening Excel application
+[2025-02-24 16:53:07] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 16:53:07] [INFO] Setting company name: Axy Agro Pvt ltd
+[2025-02-24 16:53:10] [INFO] Running macro based on cell value
+[2025-02-24 16:53:10] [INFO] Executing CFPL macro
+[2025-02-24 16:53:14] [INFO] Excel processing completed successfully
+[2025-02-24 16:53:14] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 16:53:15] [INFO] File uploaded successfully to SharePoint: AXY AGRO PVT LTD24-02-2025 16_3_4.XLSM
+[2025-02-24 16:53:15] [INFO] Send Mail Successfully
+[2025-02-24 16:53:15] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 16:53:19] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 16:54:15] [INFO] File deleted successfully FromC:\CapSave\PriceMacro\PriceMacro\PriceMacro\MacroFiles\AXY AGRO PVT LTD24-02-2025 16_2_6.XLSM
+[2025-02-24 16:59:38] [INFO] Processing started for company: Axy Agro Pvt ltd
+[2025-02-24 16:59:38] [INFO] Initializing SharePoint connection
+[2025-02-24 16:59:38] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 16:59:43] [INFO] Writing SharePoint file to local storage
+[2025-02-24 16:59:43] [INFO] Opening Excel application
+[2025-02-24 16:59:48] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 16:59:49] [INFO] Setting company name: Axy Agro Pvt ltd
+[2025-02-24 16:59:52] [INFO] Running macro based on cell value
+[2025-02-24 16:59:52] [INFO] Executing CFPL macro
+[2025-02-24 16:59:56] [INFO] Excel processing completed successfully
+[2025-02-24 16:59:56] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 16:59:57] [INFO] File uploaded successfully to SharePoint: AXY AGRO PVT LTD24-02-2025 16_9_6.XLSM
+[2025-02-24 16:59:57] [INFO] Send Mail Successfully
+[2025-02-24 16:59:57] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 17:00:01] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 17:02:29] [INFO] Processing started for company: Axy Agro Pvt ltd
+[2025-02-24 17:02:29] [INFO] Initializing SharePoint connection
+[2025-02-24 17:02:29] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-24 17:02:33] [INFO] Writing SharePoint file to local storage
+[2025-02-24 17:02:33] [INFO] Opening Excel application
+[2025-02-24 17:02:41] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-24 17:02:42] [INFO] Setting company name: Axy Agro Pvt ltd
+[2025-02-24 17:02:47] [INFO] Running macro based on cell value
+[2025-02-24 17:02:47] [INFO] Executing CFPL macro
+[2025-02-24 17:02:50] [INFO] Excel processing completed successfully
+[2025-02-24 17:02:50] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-24 17:02:52] [INFO] File uploaded successfully to SharePoint: AXY AGRO PVT LTD24-02-2025 17_2_0.XLSM
+[2025-02-24 17:02:52] [INFO] Send Mail Successfully
+[2025-02-24 17:02:52] [INFO] Open Output workSheet SingleRow sheet with PowerApps data
+[2025-02-24 17:02:56] [INFO] Get Output SingleRow sheet with PowerApps data
+[2025-02-24 17:04:51] [INFO] File deleted successfully FromC:\CapSave\PriceMacro\PriceMacro\PriceMacro\MacroFiles\AXY AGRO PVT LTD24-02-2025 17_2_9.XLSM

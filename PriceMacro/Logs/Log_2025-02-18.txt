@@ -1,0 +1,19 @@
+﻿[2025-02-18 13:14:05] [INFO] Processing started for company: Sachin Agro Pvt ltd
+[2025-02-18 13:14:08] [INFO] Initializing SharePoint connection
+[2025-02-18 13:14:14] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-18 14:36:44] [INFO] Processing started for company: Sachin Agro Pvt ltd
+[2025-02-18 14:36:44] [INFO] Initializing SharePoint connection
+[2025-02-18 14:36:48] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-18 14:39:11] [INFO] Processing started for company: Sachin Agro Pvt ltd
+[2025-02-18 14:39:11] [INFO] Initializing SharePoint connection
+[2025-02-18 14:39:12] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-18 14:39:17] [INFO] Writing SharePoint file to local storage
+[2025-02-18 14:39:17] [INFO] Opening Excel application
+[2025-02-18 14:39:51] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-18 14:39:57] [INFO] Setting company name: Sachin Agro Pvt ltd
+[2025-02-18 14:40:14] [INFO] Running macro based on cell value
+[2025-02-18 14:40:19] [INFO] Executing CFPL macro
+[2025-02-18 14:40:26] [INFO] Excel processing completed successfully
+[2025-02-18 14:40:26] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-18 14:40:28] [INFO] File uploaded successfully to SharePoint: SACHIN AGRO PVT LTD18-02-2025.XLSM
+[2025-02-18 14:40:28] [INFO] Processing completed successfully for company: Sachin Agro Pvt ltd

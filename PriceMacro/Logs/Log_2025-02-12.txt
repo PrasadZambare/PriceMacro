@@ -1,0 +1,292 @@
+﻿[2025-02-12 14.14.46] [INFO] Processing started for company: Suyash Agro Pvt ltd
+[2025-02-12 14.14.49] [INFO] Initializing SharePoint connection
+[2025-02-12 14.14.59] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 14.15.14] [INFO] Writing SharePoint file to local storage
+[2025-02-12 14.15.16] [INFO] Opening Excel application
+[2025-02-12 14.15.32] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 14.15.38] [INFO] Setting company name: Suyash Agro Pvt ltd
+[2025-02-12 14.15.44] [INFO] Running macro based on cell value
+[2025-02-12 14.15.47] [INFO] Executing CFPL macro
+[2025-02-12 14.15.52] [INFO] Excel processing completed successfully
+[2025-02-12 14.15.52] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 14.16.33] [INFO] File uploaded successfully to SharePoint: Suyash Agro Pvt ltd12-02-2025 2.15.54 PM.XLSM
+[2025-02-12 14.16.39] [INFO] Processing completed successfully for company: Suyash Agro Pvt ltd
+[2025-02-12 14.20.12] [INFO] Processing started for company: Moshin Agro Pvt ltd
+[2025-02-12 14.20.12] [INFO] Initializing SharePoint connection
+[2025-02-12 14.20.12] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 14.20.15] [INFO] Writing SharePoint file to local storage
+[2025-02-12 14.20.15] [INFO] Opening Excel application
+[2025-02-12 14.20.16] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 14.20.16] [INFO] Setting company name: Moshin Agro Pvt ltd
+[2025-02-12 14.20.17] [INFO] Running macro based on cell value
+[2025-02-12 14.20.17] [INFO] Executing CFPL macro
+[2025-02-12 14.20.18] [INFO] Excel processing completed successfully
+[2025-02-12 14.20.18] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 14.20.19] [INFO] File uploaded successfully to SharePoint: Moshin Agro Pvt ltd12-02-2025 2.20.18 PM.XLSM
+[2025-02-12 14.20.19] [INFO] Processing completed successfully for company: Moshin Agro Pvt ltd
+[2025-02-12 14.24.22] [INFO] Processing started for company: Priya Agro Pvt ltd
+[2025-02-12 14.24.22] [INFO] Initializing SharePoint connection
+[2025-02-12 14.24.22] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 14.24.24] [INFO] Writing SharePoint file to local storage
+[2025-02-12 14.24.24] [INFO] Opening Excel application
+[2025-02-12 14.24.25] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 14.24.25] [INFO] Setting company name: Priya Agro Pvt ltd
+[2025-02-12 14.24.25] [INFO] Running macro based on cell value
+[2025-02-12 14.24.25] [INFO] Executing CFPL macro
+[2025-02-12 14.24.27] [INFO] Excel processing completed successfully
+[2025-02-12 14.24.27] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 14.24.27] [INFO] File uploaded successfully to SharePoint: Priya Agro Pvt ltd12-02-2025 2.24.27 PM.XLSM
+[2025-02-12 14.24.27] [INFO] Processing completed successfully for company: Priya Agro Pvt ltd
+[2025-02-12 14.25.44] [INFO] Processing started for company: ddd Agro Pvt ltd
+[2025-02-12 14.25.44] [INFO] Initializing SharePoint connection
+[2025-02-12 14.25.44] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 14.25.46] [INFO] Writing SharePoint file to local storage
+[2025-02-12 14.25.46] [INFO] Opening Excel application
+[2025-02-12 14.25.47] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 14.25.47] [INFO] Setting company name: ddd Agro Pvt ltd
+[2025-02-12 14.25.48] [INFO] Running macro based on cell value
+[2025-02-12 14.25.48] [INFO] Executing CFPL macro
+[2025-02-12 14.25.49] [INFO] Excel processing completed successfully
+[2025-02-12 14.25.49] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 14.25.50] [INFO] File uploaded successfully to SharePoint: ddd Agro Pvt ltd12-02-2025 2.25.49 PM.XLSM
+[2025-02-12 14.25.50] [INFO] Processing completed successfully for company: ddd Agro Pvt ltd
+[2025-02-12 14.27.53] [INFO] Processing started for company: hd Agro Pvt ltd
+[2025-02-12 14.27.53] [INFO] Initializing SharePoint connection
+[2025-02-12 14.27.53] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 14.27.56] [INFO] Writing SharePoint file to local storage
+[2025-02-12 14.27.56] [INFO] Opening Excel application
+[2025-02-12 14.27.57] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 14.27.57] [INFO] Setting company name: hd Agro Pvt ltd
+[2025-02-12 14.27.57] [INFO] Running macro based on cell value
+[2025-02-12 14.27.57] [INFO] Executing CFPL macro
+[2025-02-12 14.27.59] [INFO] Excel processing completed successfully
+[2025-02-12 14.27.59] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 14.28.00] [INFO] File uploaded successfully to SharePoint: hd Agro Pvt ltd12-02-2025 2.27.59 PM.XLSM
+[2025-02-12 14.28.00] [INFO] Processing completed successfully for company: hd Agro Pvt ltd
+[2025-02-12 14.32.54] [INFO] Processing started for company: hd Agro Pvt ltd
+[2025-02-12 14.32.54] [INFO] Initializing SharePoint connection
+[2025-02-12 14.32.54] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 14.32.58] [INFO] Writing SharePoint file to local storage
+[2025-02-12 14.32.58] [INFO] Opening Excel application
+[2025-02-12 14.32.59] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 14.32.59] [INFO] Setting company name: hd Agro Pvt ltd
+[2025-02-12 14.33.00] [INFO] Running macro based on cell value
+[2025-02-12 14.33.00] [INFO] Executing CFPL macro
+[2025-02-12 14.33.02] [INFO] Excel processing completed successfully
+[2025-02-12 14.33.02] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 14.33.03] [INFO] File uploaded successfully to SharePoint: hd Agro Pvt ltd12-02-2025 2.33.02 PM.XLSM
+[2025-02-12 14.33.03] [INFO] Processing completed successfully for company: hd Agro Pvt ltd
+[2025-02-12 14.33.11] [INFO] Processing started for company: hd Agro Pvt ltd
+[2025-02-12 14.33.11] [INFO] Initializing SharePoint connection
+[2025-02-12 14.33.11] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 14.33.13] [INFO] Writing SharePoint file to local storage
+[2025-02-12 14.33.13] [INFO] Opening Excel application
+[2025-02-12 14.33.14] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 14.33.14] [INFO] Setting company name: hd Agro Pvt ltd
+[2025-02-12 14.33.15] [INFO] Running macro based on cell value
+[2025-02-12 14.33.15] [INFO] Executing CFPL macro
+[2025-02-12 14.33.16] [INFO] Excel processing completed successfully
+[2025-02-12 14.33.16] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 14.33.17] [INFO] File uploaded successfully to SharePoint: hd Agro Pvt ltd12-02-2025 2.33.16 PM.XLSM
+[2025-02-12 14.33.17] [INFO] Processing completed successfully for company: hd Agro Pvt ltd
+[2025-02-12 14.44.53] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 14.45.03] [INFO] Initializing SharePoint connection
+[2025-02-12 14.45.03] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 14.45.05] [INFO] Writing SharePoint file to local storage
+[2025-02-12 14.45.05] [INFO] Opening Excel application
+[2025-02-12 14.45.07] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 14.45.07] [INFO] Setting company name: Samir Agro Pvt ltd
+[2025-02-12 14.45.07] [INFO] Running macro based on cell value
+[2025-02-12 14.45.07] [INFO] Executing CFPL macro
+[2025-02-12 14.45.09] [INFO] Excel processing completed successfully
+[2025-02-12 14.45.09] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 14.45.10] [INFO] File uploaded successfully to SharePoint: Samir Agro Pvt ltd12-02-2025 2.45.09 PM.XLSM
+[2025-02-12 14.45.10] [INFO] Processing completed successfully for company: Samir Agro Pvt ltd
+[2025-02-12 14.46.17] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 14.46.17] [INFO] Initializing SharePoint connection
+[2025-02-12 14.46.17] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 14.46.19] [INFO] Writing SharePoint file to local storage
+[2025-02-12 14.46.19] [INFO] Opening Excel application
+[2025-02-12 14.46.20] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 14.46.20] [INFO] Setting company name: Samir Agro Pvt ltd
+[2025-02-12 14.46.20] [INFO] Running macro based on cell value
+[2025-02-12 14.46.20] [INFO] Executing CFPL macro
+[2025-02-12 14.46.22] [INFO] Excel processing completed successfully
+[2025-02-12 14.46.22] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 14.46.23] [INFO] File uploaded successfully to SharePoint: Samir Agro Pvt ltd12-02-2025 2.46.22 PM.XLSM
+[2025-02-12 14.46.23] [INFO] Processing completed successfully for company: Samir Agro Pvt ltd
+[2025-02-12 14.47.52] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 14.49.24] [INFO] Initializing SharePoint connection
+[2025-02-12 14.49.28] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 14.49.30] [INFO] Writing SharePoint file to local storage
+[2025-02-12 14.49.30] [INFO] Opening Excel application
+[2025-02-12 14.49.31] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 14.49.31] [INFO] Setting company name: Samir Agro Pvt ltd
+[2025-02-12 14.49.32] [INFO] Running macro based on cell value
+[2025-02-12 14.49.32] [INFO] Executing CFPL macro
+[2025-02-12 14.49.33] [INFO] Excel processing completed successfully
+[2025-02-12 14.49.33] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 14.49.34] [INFO] File uploaded successfully to SharePoint: Samir Agro Pvt ltd12-02-2025 2.49.33 PM.XLSM
+[2025-02-12 14.49.34] [INFO] Processing completed successfully for company: Samir Agro Pvt ltd
+[2025-02-12 15.49.20] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 15.49.20] [INFO] Initializing SharePoint connection
+[2025-02-12 15.49.20] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 15.50.32] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 15.52.12] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 15.52.12] [INFO] Initializing SharePoint connection
+[2025-02-12 15.52.12] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 15.52.14] [INFO] Writing SharePoint file to local storage
+[2025-02-12 15.52.14] [INFO] Opening Excel application
+[2025-02-12 15.52.15] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 15.52.15] [INFO] Setting company name: Samir Agro Pvt ltd
+[2025-02-12 15.52.16] [INFO] Running macro based on cell value
+[2025-02-12 15.52.16] [INFO] Executing CFPL macro
+[2025-02-12 15.52.17] [INFO] Excel processing completed successfully
+[2025-02-12 15.52.17] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 15.52.18] [INFO] File uploaded successfully to SharePoint: Samir Agro Pvt ltd12-02-2025 3.52.17 PM.XLSM
+[2025-02-12 15.52.18] [INFO] Processing completed successfully for company: Samir Agro Pvt ltd
+[2025-02-12 15.53.32] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 15.53.32] [INFO] Initializing SharePoint connection
+[2025-02-12 15.53.32] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 15.53.35] [INFO] Writing SharePoint file to local storage
+[2025-02-12 15.53.35] [INFO] Opening Excel application
+[2025-02-12 15.53.36] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 15.53.36] [INFO] Setting company name: Samir Agro Pvt ltd
+[2025-02-12 15.53.36] [INFO] Running macro based on cell value
+[2025-02-12 15.53.36] [INFO] Executing CFPL macro
+[2025-02-12 15.53.38] [INFO] Excel processing completed successfully
+[2025-02-12 15.53.38] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 15.53.39] [INFO] File uploaded successfully to SharePoint: Samir Agro Pvt ltd12-02-2025 3.53.38 PM.XLSM
+[2025-02-12 15.53.39] [INFO] Processing completed successfully for company: Samir Agro Pvt ltd
+[2025-02-12 16.06.49] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 16.07.43] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 16.08.44] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 16.09.25] [INFO] Initializing SharePoint connection
+[2025-02-12 16.09.25] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Samir Agro Pvt ltd12-02-2025.XLSM
+[2025-02-12 16.09.51] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 16.09.54] [INFO] Initializing SharePoint connection
+[2025-02-12 16.10.05] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Samir Agro Pvt ltd12-02-2025.XLSM
+[2025-02-12 16.10.59] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 16.11.09] [INFO] Initializing SharePoint connection
+[2025-02-12 16.12.26] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 16.12.29] [INFO] Initializing SharePoint connection
+[2025-02-12 16.12.33] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 16.12.44] [INFO] Writing SharePoint file to local storage
+[2025-02-12 16.12.52] [INFO] Opening Excel application
+[2025-02-12 16.12.53] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 16.12.53] [INFO] Setting company name: Samir Agro Pvt ltd
+[2025-02-12 16.12.54] [INFO] Running macro based on cell value
+[2025-02-12 16.12.54] [INFO] Executing CFPL macro
+[2025-02-12 16.12.55] [INFO] Excel processing completed successfully
+[2025-02-12 16.12.55] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 16.12.57] [INFO] File uploaded successfully to SharePoint: Samir Agro Pvt ltd12-02-2025 4.12.55 PM.XLSM
+[2025-02-12 16.12.57] [INFO] Processing completed successfully for company: Samir Agro Pvt ltd
+[2025-02-12 16.24.28] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 16.24.46] [INFO] Initializing SharePoint connection
+[2025-02-12 16.24.46] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 16.24.48] [INFO] Writing SharePoint file to local storage
+[2025-02-12 16.24.48] [INFO] Opening Excel application
+[2025-02-12 16.24.49] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 16.24.49] [INFO] Setting company name: Samir Agro Pvt ltd
+[2025-02-12 16.24.50] [INFO] Running macro based on cell value
+[2025-02-12 16.24.50] [INFO] Executing CFPL macro
+[2025-02-12 16.24.51] [INFO] Excel processing completed successfully
+[2025-02-12 16.24.51] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 16.24.52] [INFO] File uploaded successfully to SharePoint: Samir Agro Pvt ltd12-02-2025 4.24.51 PM.XLSM
+[2025-02-12 16.24.52] [INFO] Processing completed successfully for company: Samir Agro Pvt ltd
+[2025-02-12 16.58.35] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 16.58.36] [INFO] Initializing SharePoint connection
+[2025-02-12 16.58.53] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 16.58.55] [INFO] Writing SharePoint file to local storage
+[2025-02-12 16.58.55] [INFO] Opening Excel application
+[2025-02-12 16.58.56] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 16.58.59] [INFO] Setting company name: Samir Agro Pvt ltd
+[2025-02-12 17.02.29] [INFO] Processing started for company: Samir Agro Pvt ltd
+[2025-02-12 17.02.29] [INFO] Initializing SharePoint connection
+[2025-02-12 17.02.29] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 17.02.31] [INFO] Deleting existing file at: C:\Users\ASUS\Desktop\PriceMacro\PriceMacro\MacroFiles\Samir Agro Pvt ltd12-02-2025.XLSM
+[2025-02-12 17.02.55] [INFO] Processing started for company: SDDS Agro Pvt ltd
+[2025-02-12 17.02.55] [INFO] Initializing SharePoint connection
+[2025-02-12 17.02.55] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 17.02.56] [INFO] Writing SharePoint file to local storage
+[2025-02-12 17.02.56] [INFO] Opening Excel application
+[2025-02-12 17.02.57] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 17.03.00] [INFO] Setting company name: SDDS Agro Pvt ltd
+[2025-02-12 17.06.21] [INFO] Processing started for company: SDDS Agro Pvt ltd
+[2025-02-12 17.06.23] [INFO] Initializing SharePoint connection
+[2025-02-12 17.06.23] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 17.06.26] [INFO] Deleting existing file at: C:\Users\ASUS\Desktop\PriceMacro\PriceMacro\MacroFiles\SDDS Agro Pvt ltd12-02-2025.XLSM
+[2025-02-12 17.07.04] [INFO] Processing started for company: SDDC Agro Pvt ltd
+[2025-02-12 17.07.04] [INFO] Initializing SharePoint connection
+[2025-02-12 17.07.04] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 17.07.06] [INFO] Writing SharePoint file to local storage
+[2025-02-12 17.07.06] [INFO] Opening Excel application
+[2025-02-12 17.07.07] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 17.07.08] [INFO] Setting company name: SDDC Agro Pvt ltd
+[2025-02-12 17.07.43] [INFO] Running macro based on cell value
+[2025-02-12 17.07.49] [INFO] Executing CFPL macro
+[2025-02-12 17.08.20] [INFO] Excel processing completed successfully
+[2025-02-12 17.08.20] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 17.08.21] [INFO] File uploaded successfully to SharePoint: SDDC Agro Pvt ltd12-02-2025 5.08.21 PM.XLSM
+[2025-02-12 17.08.21] [INFO] Processing completed successfully for company: SDDC Agro Pvt ltd
+[2025-02-12 17.09.23] [INFO] Processing started for company: SDDCC Agro Pvt ltd
+[2025-02-12 17.09.23] [INFO] Initializing SharePoint connection
+[2025-02-12 17.09.23] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 17.09.25] [INFO] Writing SharePoint file to local storage
+[2025-02-12 17.09.25] [INFO] Opening Excel application
+[2025-02-12 17.09.26] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 17.09.28] [INFO] Setting company name: SDDCC Agro Pvt ltd
+[2025-02-12 17.10.22] [INFO] Running macro based on cell value
+[2025-02-12 17.10.24] [INFO] Executing CFPL macro
+[2025-02-12 18.48.46] [INFO] Processing started for company: SDDCC Agro Pvt ltd
+[2025-02-12 18.48.46] [INFO] Initializing SharePoint connection
+[2025-02-12 18.48.46] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 18.48.48] [INFO] Deleting existing file at: C:\Users\ASUS\Desktop\PriceMacro\PriceMacro\MacroFiles\SDDCC Agro Pvt ltd12-02-2025.XLSM
+[2025-02-12 18.48.59] [INFO] Processing started for company: SDDCCC Agro Pvt ltd
+[2025-02-12 18.48.59] [INFO] Initializing SharePoint connection
+[2025-02-12 18.48.59] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 18.49.01] [INFO] Writing SharePoint file to local storage
+[2025-02-12 18.49.01] [INFO] Opening Excel application
+[2025-02-12 18.49.06] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 18.49.09] [INFO] Setting company name: SDDCCC Agro Pvt ltd
+[2025-02-12 19.04.42] [INFO] Processing started for company: SDDCCC Agro Pvt ltd
+[2025-02-12 19.04.43] [INFO] Initializing SharePoint connection
+[2025-02-12 19.04.46] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 19.04.48] [INFO] Writing SharePoint file to local storage
+[2025-02-12 19.04.48] [INFO] Opening Excel application
+[2025-02-12 19.05.03] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 19.05.08] [INFO] Setting company name: SDDCCC Agro Pvt ltd
+[2025-02-12 19.06.03] [INFO] Running macro based on cell value
+[2025-02-12 19.06.03] [INFO] Executing CFPL macro
+[2025-02-12 19.06.08] [INFO] Excel processing completed successfully
+[2025-02-12 19.06.08] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 19.06.09] [INFO] File uploaded successfully to SharePoint: SDDCCC Agro Pvt ltd12-02-2025 7.06.08 PM.XLSM
+[2025-02-12 19.06.09] [INFO] Processing completed successfully for company: SDDCCC Agro Pvt ltd
+[2025-02-12 19.10.59] [INFO] Processing started for company: SDDCCC Agro Pvt ltd
+[2025-02-12 19.10.59] [INFO] Initializing SharePoint connection
+[2025-02-12 19.10.59] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 19.11.01] [INFO] Writing SharePoint file to local storage
+[2025-02-12 19.11.01] [INFO] Opening Excel application
+[2025-02-12 19.11.06] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 19.11.08] [INFO] Setting company name: SDDCCC Agro Pvt ltd
+[2025-02-12 19.36.15] [INFO] Processing started for company: SDC12 Agro Pvt ltd
+[2025-02-12 19.36.15] [INFO] Initializing SharePoint connection
+[2025-02-12 19.36.15] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 19.36.18] [INFO] Writing SharePoint file to local storage
+[2025-02-12 19.36.18] [INFO] Opening Excel application
+[2025-02-12 19.36.20] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 19.36.22] [INFO] Setting company name: SDC12 Agro Pvt ltd
+[2025-02-12 20.13.58] [INFO] Processing started for company: SDC12 Agro Pvt ltd
+[2025-02-12 20.13.58] [INFO] Initializing SharePoint connection
+[2025-02-12 20.13.58] [INFO] Attempting to access file: /sites/Pricingsheetapp/Shared Documents/Calculation Excel Template/Pricing 25Jul2024.XLSM
+[2025-02-12 20.14.00] [INFO] Deleting existing file at: C:\Users\ASUS\Desktop\PriceMacro\PriceMacro\MacroFiles\SDC12 Agro Pvt ltd12-02-2025.XLSM
+[2025-02-12 20.14.00] [INFO] Writing SharePoint file to local storage
+[2025-02-12 20.14.00] [INFO] Opening Excel application
+[2025-02-12 20.14.04] [INFO] Updating SingleRow sheet with PowerApps data
+[2025-02-12 20.14.07] [INFO] Setting company name: SDC12 Agro Pvt ltd
+[2025-02-12 20.14.08] [INFO] Running macro based on cell value
+[2025-02-12 20.14.09] [INFO] Executing CFPL macro
+[2025-02-12 20.14.09] [INFO] Excel processing completed successfully
+[2025-02-12 20.14.09] [INFO] Preparing to upload processed file to SharePoint
+[2025-02-12 20.14.10] [INFO] File uploaded successfully to SharePoint: SDC12 Agro Pvt ltd12-02-2025 8.14.09 PM.XLSM
+[2025-02-12 20.14.11] [INFO] Processing completed successfully for company: SDC12 Agro Pvt ltd
